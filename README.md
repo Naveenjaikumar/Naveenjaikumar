@@ -32,12 +32,12 @@
 <p align="center">
 
 <b align="center">AI-Powered Exercise Form Analysis & Rep Counter</b> <br>
-☁️Built a real-time posture detection and repetition counting system using MediaPipe and OpenCV.
-☁️Implemented joint-angle–based form correction to improve exercise accuracy.
-☁️Integrated the system into a fitness monitoring app for automated performance tracking.
+☁️Built a real-time posture detection and repetition counting system using MediaPipe and OpenCV.<br>
+☁️Implemented joint-angle–based form correction to improve exercise accuracy.<br>
+☁️Integrated the system into a fitness monitoring app for automated performance tracking.<br>
 
 <br>
-🧠 <b>RAG-Based Medical Chatbot</b> <br>
+<b>RAG-Based Medical Chatbot</b> <br>
   Developed a context-aware AI chatbot using LangChain, LangGraph, and RAG pipelines.<br>
   Integrated vector databases and dynamic prompt workflows for better retrieval and reasoning.<br>
   Enabled multi-step reasoning and memory features for more intelligent responses.<br>
@@ -47,12 +47,12 @@
 
 ---
 
-<h2 align="center">🚧 What I'm Working On</h2>
+<h2 align="center">What I'm Working On</h2>
 
 <p align="center">
-🤖 Improving AI-based applications <br>
-🌐 Building full-stack real-world projects <br>
-⚡ Enhancing backend + database integration skills
+=> Improving AI-based applications <br>
+=> Building full-stack real-world projects <br>
+=> Enhancing backend + database integration skills
 </p>
 
 ---
