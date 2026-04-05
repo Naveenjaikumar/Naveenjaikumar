@@ -1,21 +1,28 @@
 <!-- 🔥 Animated Intro -->
-<h1 align="center">Hii 👋, I'm Naveen Kumar J</h1>
+<h1 align="center">Hi 👋, I'm Naveen Kumar J</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;AI+Enthusiast;Building+Real+World+Projects;Keen+Problem+solving+skills&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;AI+Enthusiast;Building+Real+World+Projects;Keen+Problem+Solving+Skills&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  🚀 <b>Turning ideas into intelligent real-world solutions</b>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 Computer Science Student passionate about **real-world problem solving**  
-- 💡 Exploring **AI, Machine Learning, and Cloud Technologies**  
-- 🏆 Hackathon Participant & Project Builder  
-- 🔥 Focused on building **impactful & scalable applications**  
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+🎓 Computer Science Student passionate about real-world problem solving <br>
+💡 Exploring AI, Machine Learning, and Cloud Technologies <br>
+🏆 Hackathon Participant & Project Builder <br>
+🔥 Focused on building impactful & scalable applications
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css,tensorflow,postgres,mysql,azure,git" />
@@ -23,23 +30,51 @@
 
 ---
 
-## 🚀 Featured Projects  
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 📊 Academic Performance Evaluation  
-- ☁️ Developed on **Microsoft Azure**  
-- 📈 Predicts student performance using ML
- 
-### 🔍 Facial Recognition Attendance System  
-- 🤖 Built using **Azure AI**  
-- 📊 Automates attendance using face recognition  
+<p align="center">
 
-### 🧠 Rag Based Medical Chatbot
-- 🏆 Hackathon Project  
-- 🤖 Medical assistance with the help of AI  
+📊 <b>Academic Performance Evaluation</b> <br>
+☁️ Developed on Microsoft Azure <br>
+📈 Predicts student performance using ML  
+
+<br><br>
+
+🔍 <b>Facial Recognition Attendance System</b> <br>
+🤖 Built using Azure AI <br>
+📊 Automates attendance using face recognition  
+
+<br><br>
+
+🧠 <b>RAG-Based Medical Chatbot</b> <br>
+🏆 Hackathon Project <br>
+🤖 AI-powered medical assistance system  
+
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">🚧 What I'm Working On</h2>
+
+<p align="center">
+🤖 Improving AI-based applications <br>
+🌐 Building full-stack real-world projects <br>
+⚡ Enhancing backend + database integration skills
+</p>
+
+---
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+🌐 Computer Networks <br>
+🤖 Deep Learning (TensorFlow) <br>
+🔗 Backend + Database Integration
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveenjaikumar&show_icons=true&theme=tokyonight" height="150"/>
@@ -48,43 +83,35 @@
 
 ---
 
-## 📈 Contribution Graph  
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjaikumar&theme=tokyo-night"/>
+  <a href="https://www.linkedin.com/in/naveen-kumar-j376">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:naveenjaikumar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## 🏆 Achievements  
+<h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveenjaikumar&theme=onestar&no-frame=true&row=1&column=6"/>
+  <img src="https://komarev.com/ghpvc/?username=Naveenjaikumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📚 Currently Learning  
-- 🌐 Computer Networks  
-- 🤖 Deep Learning (TensorFlow)  
-- 🔗 Backend + Database Integration  
-
----
-
-## 🔗 Connect With Me  
+<h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/naveen-kumar-j376"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:naveenjaikumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+💡 <i>"I turn ideas into real-world tech solutions 🚀"</i>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-💡 *"I turn ideas into real-world tech solutions 🚀"*  
-
----
-
 <p align="center">
-  ⭐ If you like my work, feel free to star my repositories!
+⭐ If you like my work, feel free to star my repositories!
 </p>
