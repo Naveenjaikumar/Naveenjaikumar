@@ -88,5 +88,5 @@
 ---
 
 <p align="center">
-<b></b>⭐ If you like my work, feel free to star my repositories!<\b>
+<b></b>⭐ If you like my work, feel free to star my repositories!</b>
 </p>
