@@ -34,19 +34,14 @@
 <b>AI-Powered Exercise Form Analysis & Rep Counter</b> <br>
 ☁️Built a real-time posture detection and repetition counting system using MediaPipe and OpenCV.
 ☁️Implemented joint-angle–based form correction to improve exercise accuracy.
-☁️Integrated the system into a fitness monitoring app for automated performance tracking. 
+☁️Integrated the system into a fitness monitoring app for automated performance tracking.
 
-<br><br>
-
-🔍 <b>Facial Recognition Attendance System</b> <br>
-🤖 Built using Azure AI <br>
-📊 Automates attendance using face recognition  
-
-<br><br>
-
+<br>
 🧠 <b>RAG-Based Medical Chatbot</b> <br>
-🏆 Hackathon Project <br>
-🤖 AI-powered medical assistance system  
+  Developed a context-aware AI chatbot using LangChain, LangGraph, and RAG pipelines.<br>
+  Integrated vector databases and dynamic prompt workflows for better retrieval and reasoning.<br>
+  Enabled multi-step reasoning and memory features for more intelligent responses.<br>
+
 
 </p>
 
