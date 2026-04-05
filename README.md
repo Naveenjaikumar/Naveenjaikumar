@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<b>AI-Powered Exercise Form Analysis & Rep Counter</b> <br>
+<b align="center">AI-Powered Exercise Form Analysis & Rep Counter</b> <br>
 ☁️Built a real-time posture detection and repetition counting system using MediaPipe and OpenCV.
 ☁️Implemented joint-angle–based form correction to improve exercise accuracy.
 ☁️Integrated the system into a fitness monitoring app for automated performance tracking.
