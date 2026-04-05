@@ -1,6 +1,5 @@
 <!-- 🔥 Animated Intro -->
 <h1 align="center">Hii 👋, I'm Naveen Kumar J</h1>
-<h3 align="center">Designing, Developing, and Deploying smart solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;AI+Enthusiast;Building+Real+World+Projects;Keen+Problem+solving+skills&center=true&width=500&height=45">
