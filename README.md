@@ -14,10 +14,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-🎓 Computer Science Student passionate about real-world problem solving <br>
-💡 Exploring AI, Machine Learning, and Cloud Technologies <br>
-🏆 Hackathon Participant & Project Builder <br>
-🔥 Focused on building impactful & scalable applications
+🎓 AI and Machine Learning enthusiast with experience in AI automation, computer vision, and data analytics using Power BI. Skilled in building intelligent, data-driven solutions and delivering actionable insights to support decision-making and optimize performance. Proficient in Java development with hands-on experience in building scalable applications using Spring Boot and Spring Tool Suite (STS), with a strong understanding of RESTful APIs and backend system design.
 </p>
 
 ---
