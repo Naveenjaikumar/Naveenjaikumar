@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Frontend Developer | 🤖 Aspiring AI Engineer | 🌐 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;AI+Enthusiast;Building+Real+World+Projects;Keen+Problem+solving+skills&center=true&width=500&height=45">
 </p>
 
 ---
